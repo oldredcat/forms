@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/fonts/stylesheet.min.css">
+    <link rel="stylesheet" href="assets/css/form.min.css">
+    <script src="assets/js/maskedinput-nojquery.js"></script>
+    <script src="assets/js/script.js"></script>
+</head>
+<body>
+<div id="all">
+
+    <div class="form">
+
+        <div class="form-spacer"></div>
+
+        <div class="form-flex form-flex__full form-flex__padding">
+            <input class="hidden" type="radio" name="wmtype" id="wmtype-tinkoff" checked>
+            <label class="form-link form-link__small" for="wmtype-tinkoff">
+                <img src="assets/images/tinkoff.svg">
+            </label>
+            <input class="hidden" type="radio" name="wmtype" id="wmtype-sberbank">
+            <label class="form-link form-link__small" for="wmtype-sberbank">
+                <img src="assets/images/sberbank.svg">
+            </label>
+            <input class="hidden" type="radio" name="wmtype" id="wmtype-vtb">
+            <label class="form-link form-link__small" for="wmtype-vtb">
+                <img src="assets/images/vtb.svg">
+            </label>
+        </div>
+
+        <div class="form-spacer"></div>
+
+        <div class="form-send">
+            <div>
+                Переведите
+            </div>
+            <div>
+                <span class="form-text form-text__16 form-text__bold form-text__no_pad" id="form_to_copy_val">157,17 BTC</span>
+            </div>
+            <div>
+                <a href="#" class="form-copy" id="form_copy_val"><img src="assets/images/copy.svg"></a>
+            </div>
+        </div>
+
+        <div class="form-spacer"></div>
+
+        <div class="form-upload">
+            <label class="form-label" for="form_to_copy">На карту</label>
+            <div class="form-input-control">
+                <input type="text" name="" id="form_to_copy" value="1111 1111 1111 1111" class="form-mask-card" readonly>
+                <a href="#" class="form-input-copy" id="form_copy"><img src="assets/images/copy.svg"></a>
+            </div>
+            <h4 class="text-center">После осуществления перевода загрузите чек</h4>
+            <div class="form-upload-form text-center">
+                <input type="file" class="hidden" id="form-file">
+                <div class="form-upload-link">
+                    <a onclick="open_file()" href="#">
+                        <img src="assets/images/up.svg">
+                        <span>Загрузить фото</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-spacer"></div>
+        <div class="form-spacer"></div>
+
+        <div class="form-info">
+            <h3 class="form-text">Использовать альтернативные методы</h3>
+            <br>
+            <p class="form-text text-center">Криптовалюты</p>
+            <div class="form-flex form-flex__full">
+                <a href="#" class="form-link form-link__small">
+                    <img src="assets/images/bitcoin.svg">
+                </a>
+                <a href="#" class="form-link form-link__small">
+                    <img src="assets/images/tether.svg">
+                </a>
+                <a href="#" class="form-link form-link__small">
+                    <img src="assets/images/tron.svg">
+                </a>
+            </div>
+            <br>
+            <p class="form-text text-center">По номеру телефона</p>
+            <div class="form-flex form-flex__center">
+                <a href="#" class="form-link form-link__small">
+                    <img src="assets/images/spb.svg">
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+</body>
+</html>

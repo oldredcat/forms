@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="36.760387"
+   height="14.613861"
+   viewBox="0 0 36.760387 14.613861"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="vtb2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.804348"
+     inkscape:cx="25.499079"
+     inkscape:cy="16.519337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Group 6</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs7">
+    <polygon
+       id="path-1"
+       points="91.824846,32.742775 91.824846,6.5060363 32.509704,6.5060363 32.509704,32.742775 " />
+  </defs>
+  <g
+     id="vtb_ru"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="scale(0.40033162,0.44632324)">
+    <g
+       id="Group-6">
+      <g
+         id="Group-Copy">
+        <g
+           id="Group-2">
+          <path
+             d="M 6.2506537,0 4.6870148,4.2831104 H 26.355557 L 27.919196,0 Z M 3.9047077,6.423693 2.3410688,10.705831 H 24.009611 L 25.57325,6.423693 Z M 1.5636389,12.847386 0,17.129524 h 21.668542 l 1.562664,-4.282138 z"
+             id="Fill-1"
+             fill="#009fdf" />
+          <mask
+             id="mask-2"
+             fill="#ffffff">
+            <use
+               xlink:href="#path-1"
+               id="use10"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </mask>
+          <g
+             id="Clip-3" />
+          <path
+             d="m 46.06593,18.761712 v 0.09037 c 0.990261,0.363469 1.936182,0.999044 2.431805,1.407202 1.531209,1.271151 2.207148,2.950459 2.207148,5.12929 0,3.587027 -1.891841,6.174016 -4.999585,6.991326 -0.945921,0.272106 -1.936181,0.36347 -3.783683,0.36347 H 32.509704 V 6.5060363 h 8.331985 c 1.711526,0 2.882102,0.090371 3.917688,0.3624764 3.018079,0.8173099 4.999586,2.9057699 4.999586,6.2187053 0,1.770672 -0.630614,3.269239 -1.6662,4.267291 -0.450298,0.45384 -1.080912,0.999044 -2.026833,1.407203 z m -8.331985,2.768724 v 6.899962 h 3.603367 c 1.079926,0 2.071172,-0.09037 2.792437,-0.771628 0.720279,-0.681257 1.035586,-1.543256 1.035586,-2.678353 0,-0.861999 -0.225641,-1.679309 -0.675939,-2.269202 -0.765605,-0.953363 -1.711525,-1.180779 -3.3324,-1.180779 z m -0.04532,-4.539397 h 2.927428 c 0.900595,0 1.350893,0 1.80119,-0.136053 1.216888,-0.363469 1.982492,-1.451891 1.982492,-2.950458 0,-1.76968 -0.810929,-2.542301 -1.982492,-2.904777 -0.495623,-0.136053 -0.99026,-0.181735 -1.981506,-0.181735 H 37.68862 Z m 20.85262,15.752332 V 10.908387 H 51.02019 V 6.5060363 h 20.897951 l -1.485884,4.4023507 h -6.66677 v 21.834984 z m 14.997771,0 V 6.5060363 H 90.473953 L 88.988069,10.908387 H 78.718917 v 5.810547 h 4.188655 c 3.377725,0 5.134576,0.817309 6.350478,1.861043 0.945921,0.81731 2.566796,2.632671 2.566796,6.219698 0,3.540352 -1.6662,5.491766 -3.062419,6.490811 -1.620874,1.134104 -3.3324,1.452885 -6.800776,1.452885 z m 5.179901,-4.403344 h 3.918674 c 1.485883,0 2.386479,-0.36347 3.017093,-1.18078 0.315306,-0.408158 0.765604,-1.135097 0.765604,-2.496618 0,-1.361521 -0.450298,-2.314884 -1.350893,-2.996141 -0.539963,-0.408158 -1.261228,-0.634582 -2.47713,-0.634582 h -3.873348 z"
+             id="Fill-2"
+             fill="#0a2973"
+             mask="url(#mask-2)" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Group 6</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
